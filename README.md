@@ -1,5 +1,5 @@
 === Investor & MFI Management Plugin ===
-Contributors: yourname
+Contributors: Anuj Kumar Yadav
 Donate link: 
 Tags: users, roles, registration, company, investor, mfi, filter, profile
 Requires at least: 5.0
